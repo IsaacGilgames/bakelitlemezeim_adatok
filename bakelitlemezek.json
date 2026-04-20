@@ -1,0 +1,33 @@
+{
+  "lemezek": [
+    {
+      "id": 1,
+      "eloado": "Hozier",
+      "album": "Unreal Unearth",
+      "tipus": "Bakelit lemez",
+      "kiadas_eve": 2023,
+      "mufaj": "Alternative Rock",
+      "szin": "Fekete",
+      "meret": "12 inch",
+      "fordulat": "33 RPM",
+      "boritokep": "assets/img/hozier-unreal-unearth.jpg",
+      "dalok": [
+        "De Selby (Part 1)",
+        "De Selby (Part 2)",
+        "First Time",
+        "Francesca",
+        "Eat Your Young",
+        "Damage Gets Done",
+        "Who We Are",
+        "Son of Nyx",
+        "All Things End",
+        "To Someone From A Warm Climate",
+        "Butchered Tongue",
+        "Anything But",
+        "Abstract (Psychopomp)",
+        "Unknown / Nth",
+        "First Light"
+      ]
+    }
+  ]
+}
